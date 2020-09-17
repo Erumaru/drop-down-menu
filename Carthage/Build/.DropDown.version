@@ -1,0 +1,11 @@
+{
+  "commitish" : "v2.3.12",
+  "iOS" : [
+    {
+      "hash" : "da9d77523dad366c504ae546d9bb1dd3d9af5e836ed5eb9f887ae91af3e6ac63",
+      "name" : "DropDown",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}

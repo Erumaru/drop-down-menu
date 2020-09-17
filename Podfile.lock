@@ -1,0 +1,28 @@
+PODS:
+  - DropDown (2.3.12)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - DropDown (from `https://github.com/ftp27/DropDown.git`)
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  DropDown:
+    :git: https://github.com/ftp27/DropDown.git
+
+CHECKOUT OPTIONS:
+  DropDown:
+    :commit: 98af79a6cf079daaa9ec7cce32a96c4304c61a60
+    :git: https://github.com/ftp27/DropDown.git
+
+SPEC CHECKSUMS:
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 8dfbc4a391fc870a32e020ab29045bb2364ee3a7
+
+COCOAPODS: 1.5.3

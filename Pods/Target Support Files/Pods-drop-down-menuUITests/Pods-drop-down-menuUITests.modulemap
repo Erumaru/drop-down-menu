@@ -1,0 +1,6 @@
+framework module Pods_drop_down_menuUITests {
+  umbrella header "Pods-drop-down-menuUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
